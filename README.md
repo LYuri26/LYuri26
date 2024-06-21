@@ -2,9 +2,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lenon-yuri-silva-9a609b19a?original_referer=https%3A%2F%2Fwww.google.com%2F)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lenonyuri/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Lenon Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYuri26&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYuri26&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias
 
