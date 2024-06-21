@@ -1,12 +1,5 @@
-Olá, Sou o Lenon Yuri! 🙂
+### Olá, Sou o Lenon Yuri! 🙂
 <div style="text-align: center; padding: 20px;">
-  <a href="https://br.linkedin.com/in/lenon-yuri-silva-9a609b19a?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.instagram.com/lenonyuri/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 10px;"/>
-  </a>
-</div>
 <div style="text-align: center; margin-top: 20px;">
   Bem-vindo ao meu perfil! Sou desenvolvedor apaixonado por tecnologia e estou sempre buscando aprender e compartilhar meu conhecimento. Tenho experiência em diversas linguagens de programação e frameworks, e estou constantemente aprimorando minhas habilidades.
 </div><div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background: #1e1e1e; padding: 20px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6); margin-top: 20px;">
@@ -37,7 +30,7 @@ Eu trabalho com uma variedade de tecnologias. Estas são algumas com as quais te
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" style="flex: 1 1 100px; max-width: 120px;"/>
   <img alt="GNU Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" style="flex: 1 1 100px; max-width: 120px;"/>
 </div>
-Objetivos Futuros
+### Objetivos Futuros
 
 Estou constantemente buscando maneiras de crescer e me desenvolver. Alguns dos meus objetivos incluem:
 <ul>
@@ -45,7 +38,7 @@ Estou constantemente buscando maneiras de crescer e me desenvolver. Alguns dos m
     <li>Explorar novas metodologias de desenvolvimento ágil e DevOps.</li>
     <li>Melhorar minhas habilidades em segurança cibernética e práticas de código seguro.</li>
 </ul>
-Contato
+### Contato
 
 Vamos nos conectar e discutir tecnologia, projetos ou colaborações futuras. Sinta-se à vontade para me contatar:
 <div style="text-align: center; padding: 20px;">
