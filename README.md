@@ -4,7 +4,8 @@
 
 ![Lenon Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYuri26&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYuri26&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYuri26&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias
 
@@ -28,5 +29,4 @@
 <img align = "center" alt = "windows" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img align = "center" alt = "trello" src = "https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 <img align = "center" alt = "gnubash" src = "https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
-
 </div>
