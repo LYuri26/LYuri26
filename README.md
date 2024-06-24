@@ -73,3 +73,6 @@ Vamos nos conectar e discutir tecnologia, projetos ou colaborações futuras. Si
   </a>
 
 </div>
+
+
+![Snake animation](https://github.com/LYuri26/LYuri26/blob/output/github-contribution-grid-snake.svg)
