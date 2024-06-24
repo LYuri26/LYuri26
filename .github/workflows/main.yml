@@ -10,18 +10,15 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
 
-    # Definir permissões necessárias para o job
     permissions:
       contents: write # Permite escrita no conteúdo do repositório
 
     steps:
-      # Checkout do repositório para o runner do GitHub Actions
       - name: Checkout Repository
         uses: actions/checkout@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Gerar a animação do Snake
       - name: Generate Snake Animation
         uses: Platane/snk@master
         id: snake-gif
@@ -29,15 +26,13 @@ jobs:
           github_user_name: lyuri26
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Adicionar passo de debug para verificar permissões
       - name: Check Effective Permissions
         run: |
           echo "Effective permissions for the job:"
           echo ${{ toJSON(steps) }}
 
-      # Deploy dos arquivos gerados para o branch 'output'
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
